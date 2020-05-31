@@ -10,5 +10,4 @@ require (
 	github.com/mattn/go-sqlite3 v1.13.0 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.5.1
-	github.com/testcontainers/testcontainers-go v0.5.1
 )
