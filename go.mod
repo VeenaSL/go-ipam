@@ -1,4 +1,4 @@
-module github.com/VeenaSL/go-ipam
+replave github.com/metal-stack/go-ipam github.com/VeenaSL/go-ipam
 
 go 1.14
 
