@@ -1,6 +1,6 @@
 module github.com/VeenaSL/go-ipam
 
-replace github.com/metal-stack/go-ipam => github.com/VeenaSL/go-ipam
+replace github.com/metal-stack/go-ipam => github.com/VeenaSL/go-ipam v1.5.0
 
 go 1.14
 
